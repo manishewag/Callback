@@ -21,7 +21,7 @@
                                     setTimeout(()=>{
                                         h1.innerHTML  = " 1 "
                                         setTimeout(()=>{
-                                            h1.innerHTML  = " Happy Independence Day "
+                                            h1.innerHTML  = "<h1> Happy Independence Day </h1>"
                                         },1000)
                                         
                                     },1000)
